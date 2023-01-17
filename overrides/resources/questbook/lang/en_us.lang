@@ -80,7 +80,7 @@ nomifactory.quest.db.8.desc=With three §6Microcircuits§r and some standard com
 
 # db 9
 nomifactory.quest.db.9.title=Ore Doubling?
-nomifactory.quest.db.9.desc=In most expert packs, you want to try to process as little ore as possible before you get access to ore doubling. It's a habit most of us pick up.%n%n§eYou shouldn't feel any pressure to do that in Nomifactory, though§f. Ore veins are massive, and mining is extremely fast with §aMining Hammers§f. What's more, even once you get access to §3Macerators§f, they initially process ore slowly and require power to operate.%n%nObvious exceptions would be rare materials or anything you buy with §dOmnicoins §fbecause you can't find it. Those are worth doubling, if possible.%n%nBut at least for now, you shouldn't feel any guilt about smelting the more common ores without doubling them! §eOre doubling can be safely ignored until you have Medium Voltage machines or even later.§r
+nomifactory.quest.db.9.desc=In most expert packs, you want to try to process as little ore as possible before you get access to ore doubling. It's a habit most of us pick up.%n%n§eYou shouldn't feel any pressure to do that in Nomifactory, though§f. Ore veins are massive, and mining is extremely fast with §aMining Hammers§f. What's more, even once you get access to §3Macerators§f, they initially process ore slowly and require power to operate.%n%nObvious exceptions would be rare materials or anything you buy with §dNos §fbecause you can't find it. Those are worth doubling, if possible.%n%nBut at least for now, you shouldn't feel any guilt about smelting the more common ores without doubling them! §eOre doubling can be safely ignored until you have Medium Voltage machines or even later.§r
 
 # db 10
 nomifactory.quest.db.10.title=Tier Two Micro Miner
@@ -140,7 +140,7 @@ nomifactory.quest.db.23.desc=You'll need §6Obsidian§r to make §6Dark Steel§r
 
 # db 24
 nomifactory.quest.db.24.title=Steam Dynamo
-nomifactory.quest.db.24.desc=Your first major crafting project!%n%nYou'll need a small bit of §6Silver§f for this dynamo. If you haven't found a §6Galena vein§f yet (which is where Silver is), then consider "buying" some §6Silver Ore§r using §dOmnicoins§r. You won't need a ton of silver and lead just yet, so it won't bankrupt you.%n%nKeep in mind that §eDynamos only output power when burning through fuel, and only the block attached directly to the coil will get provided with power§f.
+nomifactory.quest.db.24.desc=Your first major crafting project!%n%nYou'll need a small bit of §6Silver§f for this dynamo. If you haven't found a §6Galena vein§f yet (which is where Silver is), then consider "buying" some §6Silver Ore§r using §dNomicoins§r. You won't need a ton of silver and lead just yet, so it won't bankrupt you.%n%nKeep in mind that §eDynamos only output power when burning through fuel, and only the block attached directly to the coil will get provided with power§f.
 
 # db 25
 nomifactory.quest.db.25.title=Cake Based Dimensional Transit
